@@ -1,0 +1,6 @@
+div {
+    border-width: 25px;
+    border-style: solid;
+    border-image: url(../../border.png) 31 33 stretch;
+    padding: 2%;
+}

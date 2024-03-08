@@ -1,0 +1,45 @@
+ul {
+    display: flex;
+    list-style: none;
+}
+
+ul li {
+    margin: 6px;
+}
+
+ul a {
+    display: block;
+    padding: 30px;
+    text-decoration: none;
+    background-image: url(../../indiana.png.crdownload),linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(7, 6, 94, 1) 24%, rgba(9, 9, 121, 1) 35%, rgba(6, 75, 164, 1) 56%, rgba(4, 191, 154, 0.5382528011204482) 69%, rgba(4, 125, 197, 1) 72%, rgba(3, 150, 213, 1) 80%, rgba(1, 187, 238, 1) 92%, rgba(0, 212, 255, 1) 100%);;
+    transition: 5s;
+    border: 5px solid black;
+    box-shadow: 15px 20px 22px gray;
+    border-radius: 316px;
+    color: white;
+    font-family:cursive;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    
+}
+
+ul a:hover {
+    background-position: -35px center;
+}
+.pp{
+    display: block;
+
+    text-decoration: none;
+
+    transition: 5s;
+  
+    box-shadow: 15px 20px 22px gray;
+    
+    color: white;
+    font-family: cursive
+    
+}
+.pp:hover{
+    transition: 3s;
+    background-position: 100px center;
+}

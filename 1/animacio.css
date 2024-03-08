@@ -1,0 +1,15 @@
+div {
+    background-color: pink;
+    width: 30px;
+    height: 30px;
+    transition-property: width, height, font-size;
+    transition-duration: 5s, 5s,5s;
+
+ 
+}
+div:hover {
+    width: 400px;
+    height: 200px;
+    background: red;
+    font-size: 200px;
+}

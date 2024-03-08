@@ -1,0 +1,22 @@
+.container {
+    background-repeat: no-repeat;
+    background-position: left,right;
+ background-size: auto;
+ background-image: url(../../html-left.png),url(../../html-right.png);
+ padding-top: 20%;
+ padding-left: 35%;
+ padding-right: 35%;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin-top: 199px;
+    gap: 71px;
+}
+
+.col {
+    overflow: auto;
+    width: 69px;
+    height: 176px;
+}

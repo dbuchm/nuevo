@@ -1,0 +1,74 @@
+.container{
+    width: 600px;
+    margin: auto;
+}
+body{
+    background-color: gainsboro;
+    margin: 0;
+}
+h1{
+color: black;
+text-align: center;
+text-decoration: underline white;
+font-size: 3rem;
+}
+.box{
+    padding: 15px;
+    margin-top: 20px;
+}
+.blue{
+    background-color: blue;
+    border: 3px solid green;
+    margin: auto;
+}
+.pink{
+    background-color: blueviolet;
+    border: 3px solid gray;
+    margin-right: 50%;
+}
+.green{
+    background-color: darkgreen;
+    border: 3px solid black;
+    margin-left: 50%;
+}
+.orange{
+    background-color: aqua;
+    border: 3px solid salmon;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.huevo{
+    color: blueviolet;
+    background-color: azure;
+}
+.calipo{
+    font-size: 5rem;
+    color: lawngreen;
+}
+.punto{
+    color: yellow;
+}
+.negrita{
+    background-color: beige;
+    color: red;
+}
+.raya{
+    text-decoration: underline green;
+    font-weight: bold;
+}
+.pop{
+    background-color: green;
+    font-size: 3rem;
+}
+.neg{
+    font-weight: bold;
+}
+p{margin: auto;
+padding-left:5%;
+padding-right: 5%;
+font-size: 2rem;}
+h2{margin: auto;
+text-align: center;}
+.poppo{
+    font-size: 1rem;
+}
